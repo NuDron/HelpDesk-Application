@@ -15,6 +15,6 @@ SendMail app        ---->         associated Gmail account           ---->      
 
 3) GitHub project structure
 SendMAil App[folder] - contains a script meant for sending the tech related tickets. See individual ReadMe.txt for more information.
-GmailReader App[folder] - not yet implemented.
+GmailReader App[folder] - contains a script meant for receiving/responding to the tech-related tickets sent through SendMail app.
 License[text] - file containing licensing rules for tis piece of software.
 Project_README[text] - this very file.
